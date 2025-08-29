@@ -43,7 +43,7 @@ List of variables included in each dataset and their description. For a detailed
 |Monolingual           | Authors who have a Goodreads description and do not explicitly declare knowledge of more than one language or a multicultural background     |
 |Man/woman             | Gender of the author as inferred from the Goodreads profiles                                                                                 |
 |American/British/Other| An author living or born in the United States of America or the United Kingdom if explicitly mentioned in the Goodreads or Amazon profile.   | 
-                         All other cases, including authors from different countries or profiles without this information, are grouped under “Other”                  |
+                       |  All other cases, including authors from different countries or profiles without this information, are grouped under “Other”                 |
 
 - Works_dataset.csv (7.491 entries) includes: 
 
