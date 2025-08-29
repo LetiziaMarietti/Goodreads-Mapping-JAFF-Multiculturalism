@@ -61,7 +61,7 @@ List of variables included in each dataset and their description. For a detailed
 |Publication Info      | The date of publication of each title, in some cases with some additional information such as date of first publication or of expected publication|
 |Ratings Histogram     | Numerical representation of a graphical representation (in form of a bar chart) of the ratings distribution for each book                         |
 
-- Editions_dataset.csv (21989 entries): 
+- Editions_dataset.csv (21767 entries): 
 
 | Variable             | Description                                                                                                                                      |
 |----------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -79,6 +79,10 @@ List of variables included in each dataset and their description. For a detailed
 |Rating Count          | Total number of ratings for each book on Goodreads as of May 2025                                                                                |
 |Book URL              | The direct web address (URL) to the specific edition page of each book on Goodreads                                                              |
 |Publisher type        | Either ‘big publisher’, ‘small publisher’, ‘self-published’, or ‘unknown’                                                                        |
+
+Data workflow disclaimer:
+
+The uploaded datasets reflect key stages and logic of the research, but are not always mutually synchronized across all intermediate versions. Throughout the project, several stages involved manual corrections and updates, so intermediary files may contain discrepancies. The files provided are meant to illustrate the research process and main results, rather than serve as exact, consecutive backups for each step.
 
 Contact: 
 For questions about this thesis or related projects, please write to l.m.marietti@student.rug.nl
