@@ -1,6 +1,7 @@
-# JAFF project | Master’s Thesis
+# JAFF project | Master’s Thesis | 
 
-## MA Digital Humanities | University of Groningen
+## MA Digital Humanities | University of Groningen 
+## Letizia Maria Marietti | S6052029 
 
 ### Project title: 
 Mapping Present-Day Commercially Published Jane Austen Inspired Works: Exploring the Role of Author Multiculturalism in Publishing Practices and Reader Perception 
